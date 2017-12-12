@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1487257957 source:c:\my  data\ds project\hospital management\main.cpp
+	<iostream>
+	"Hash_Table_Staff.h"
+	"Hash_Table_Patient.h"
+	"Graph.h"
+	<string>
+	<stdlib.h>
+	<stdio.h>
+
+1487174109 
+
+1487247984 c:\my  data\ds project\hospital management\hash_table_staff.h
+	"Hash_Node_Staff.h"
+	<cstring>
+
+1486993472 c:\my  data\ds project\hospital management\hash_node_staff.h
+	<cstring>
+
+1487250260 c:\my  data\ds project\hospital management\hash_table_patient.h
+	"Hash_Node_Patient.h"
+	<cstring>
+
+1486993892 c:\my  data\ds project\hospital management\hash_node_patient.h
+
+1487250102 c:\my  data\ds project\hospital management\graph.h
+	"Linked_List.h"
+	"Queue.h"
+	<cstring>
+
+1487174109 c:\my  data\ds project\hospital management\linked_list.h
+	"Linked_List_Node.h"
+	<cstring>
+
+1487174104 c:\my  data\ds project\hospital management\linked_list_node.h
+
+1487174122 c:\my  data\ds project\hospital management\queue.h
+	"Queue_Node.h"
+
+1487174122 e.h"
+
+1487174098 c:\my  data\ds project\hospital management\queue_node.h
+	"Linked_List_Node.h"
+
+1487174098 st_Node.h"
+
+1487257957 source:/home/tanuj_drall/Documents/Github/Hospital Management/main.cpp
+	<iostream>
+	"Hash_Table_Staff.h"
+	"Hash_Table_Patient.h"
+	"Graph.h"
+	<string>
+	<stdlib.h>
+	<stdio.h>
+
+1487247984 /home/tanuj_drall/Documents/Github/Hospital Management/Hash_Table_Staff.h
+	"Hash_Node_Staff.h"
+	<cstring>
+
+1486993472 /home/tanuj_drall/Documents/Github/Hospital Management/Hash_Node_Staff.h
+	<cstring>
+
+1487250260 /home/tanuj_drall/Documents/Github/Hospital Management/Hash_Table_Patient.h
+	"Hash_Node_Patient.h"
+	<cstring>
+
+1486993892 /home/tanuj_drall/Documents/Github/Hospital Management/Hash_Node_Patient.h
+
+1487250102 /home/tanuj_drall/Documents/Github/Hospital Management/Graph.h
+	"Linked_List.h"
+	"Queue.h"
+	<cstring>
+
+1487174109 /home/tanuj_drall/Documents/Github/Hospital Management/Linked_List.h
+	"Linked_List_Node.h"
+	<cstring>
+
+1487174104 /home/tanuj_drall/Documents/Github/Hospital Management/Linked_List_Node.h
+
+1487174122 /home/tanuj_drall/Documents/Github/Hospital Management/Queue.h
+	"Queue_Node.h"
+
+1487174098 /home/tanuj_drall/Documents/Github/Hospital Management/Queue_Node.h
+	"Linked_List_Node.h"
+
